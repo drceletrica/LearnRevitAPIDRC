@@ -1,0 +1,6 @@
+# Tool activates when all selected elements are of the given category, or categories
+context:
+  - doc-project
+  - any:
+      - OST_Walls
+      - OST_Doors
